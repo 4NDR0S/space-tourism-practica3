@@ -11,7 +11,7 @@ export default function Destination() {
     }
 
     return (
-        <div className="bg-cover bg-center min-h-screen" style={{ backgroundImage: "url('public/assets/destination/background-destination-desktop.jpg')" }}>
+        <div className="bg-cover bg-center min-h-screen" style={{ backgroundImage: "url('/assets/destination/background-destination-desktop.jpg')" }}>
             <Header />
             <div className='flex justify-center py-10'>
                 <div className='max-w-[1500px]'>

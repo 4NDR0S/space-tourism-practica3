@@ -11,7 +11,7 @@ export default function Technology() {
   }
 
   return (
-    <div className="bg-cover bg-center min-h-screen" style={{ backgroundImage: "url('public/assets/technology/background-technology-desktop.jpg')" }}>
+    <div className="bg-cover bg-center min-h-screen" style={{ backgroundImage: "url('/assets/technology/background-technology-desktop.jpg')" }}>
       <Header />
 
       <div className='flex justify-center py-10'>

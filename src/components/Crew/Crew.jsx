@@ -10,7 +10,7 @@ export default function Crew() {
     }
 
     return (
-        <div className="bg-cover bg-center min-h-screen" style={{ backgroundImage: "url('public/assets/crew/background-crew-desktop.jpg')" }}>
+        <div className="bg-cover bg-center min-h-screen" style={{ backgroundImage: "url('/assets/crew/background-crew-desktop.jpg')" }}>
             <Header />
 
             <div className='flex justify-center py-10'>
